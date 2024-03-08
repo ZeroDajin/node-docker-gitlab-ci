@@ -57,3 +57,24 @@ function myFunction19(a) {
     const strings = string.split('');
     return strings.map(digit => Number(digit))
 }
+module.exports = {
+    myFunction1,
+    myFunction2,
+    myFunction3,
+    myFunction4,
+    myFunction5,
+    myFunction6,
+    myFunction7,
+    myFunction8,
+    myFunction9,
+    myFunction10,
+    myFunction11,
+    myFunction12,
+    myFunction13,
+    myFunction14,
+    myFunction15,
+    myFunction16,
+    myFunction17,
+    myFunction18,
+    myFunction19
+  };
